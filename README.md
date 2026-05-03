@@ -1,11 +1,11 @@
-![Community content](https://github.com/strapi/community-content/assets/81171251/39b89a61-aa4d-48de-8a3f-b3c8faa5f0f7)
+![Talimde interaktiv oyinlar](https://github.com/strapi/community-content/assets/81171251/39b89a61-aa4d-48de-8a3f-b3c8faa5f0f7)
 
-# Community Content
+# Biz haqqimizda
 
 Contribute and collaborate on educational content for the Strapi Community.
 
-  - [Articles](#Articles)
-  - [Showcase](#Showcase)
+  - [Bas bet](#Articles)
+  - [Magliwmat](#Showcase)
 
 ## Articles
 
